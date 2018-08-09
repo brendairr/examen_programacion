@@ -1,0 +1,10 @@
+c:\users\brenda i. rivas\source\repos\CarreraHilos\CarreraHilos\bin\Debug\CarreraHilos.exe.config
+c:\users\brenda i. rivas\source\repos\CarreraHilos\CarreraHilos\bin\Debug\CarreraHilos.exe
+c:\users\brenda i. rivas\source\repos\CarreraHilos\CarreraHilos\bin\Debug\CarreraHilos.pdb
+c:\users\brenda i. rivas\source\repos\CarreraHilos\CarreraHilos\obj\Debug\CarreraHilos.csprojAssemblyReference.cache
+c:\users\brenda i. rivas\source\repos\CarreraHilos\CarreraHilos\obj\Debug\CarreraHilos.Properties.Resources.resources
+c:\users\brenda i. rivas\source\repos\CarreraHilos\CarreraHilos\obj\Debug\CarreraHilos.csproj.GenerateResource.cache
+c:\users\brenda i. rivas\source\repos\CarreraHilos\CarreraHilos\obj\Debug\CarreraHilos.csproj.CoreCompileInputs.cache
+c:\users\brenda i. rivas\source\repos\CarreraHilos\CarreraHilos\obj\Debug\CarreraHilos.exe
+c:\users\brenda i. rivas\source\repos\CarreraHilos\CarreraHilos\obj\Debug\CarreraHilos.pdb
+c:\users\brenda i. rivas\source\repos\CarreraHilos\CarreraHilos\obj\Debug\CarreraHilos.Carrera.resources
